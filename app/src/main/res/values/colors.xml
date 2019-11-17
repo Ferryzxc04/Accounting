@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3742fa</color>
+    <color name="colorPrimaryDark">#5352ed</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="batnsaldo">#2ed573</color>
+    <color name="batntambah">#fff200</color>
+    <color name="batnhapus">#eb2f06</color>
+    <color name="hitam">#000000</color>
+    <color name="putih">#ffffff</color>
+</resources>
